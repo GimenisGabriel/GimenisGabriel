@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-  👨‍🎓 I am currently a computer science student at the university (Unilasalle), developing my career as a front-end, but I also have knowledge in python programming
+  👨‍🎓 I'm brazillian and i am currently a computer science student at the university (Unilasalle), developing my career as a front-end, but I also have knowledge in python programming
 </samp>
 <br/><br/>
 <samp>
